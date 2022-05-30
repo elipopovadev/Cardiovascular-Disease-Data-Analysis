@@ -9,7 +9,7 @@
 * Obesity
 * High blood pressure.
 * High LDL or low HDL cholesterol levels
-* * Diabetes
+* Type two Diabetes
 * Family history of heart disease or other cardiovascular disease.
 * Age
 
