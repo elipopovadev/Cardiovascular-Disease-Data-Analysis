@@ -3,10 +3,12 @@
 
 ## Cardiovascular disease risk factors
 * Smoking
+* Alcohol
 * Lack of exercise
 * Diet
-* Obesity.
+* Obesity
 * High blood pressure.
 * High LDL or low HDL cholesterol levels
 * Family history of heart disease or other cardiovascular disease.
 * Age
+* Diabetes
