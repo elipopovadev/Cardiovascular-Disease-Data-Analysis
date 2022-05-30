@@ -7,9 +7,8 @@
 * Lack of exercise
 * Diet
 * Obesity
-* High blood pressure.
+* High blood pressure
 * High LDL or low HDL cholesterol levels
 * Type 2 Diabetes
-* Family history of heart disease or other cardiovascular disease.
 * Age
-
+* Family history of heart disease or other cardiovascular disease
